@@ -1,0 +1,14 @@
+{
+  "name": "CyberTarczaMailer",
+  "version": "1.0.0",
+  "description": "Cyber Tarcza Mailer",
+  "main": "tarcza.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "nodemailer": "^2.0.0",
+    "sync-request": "^3.0.0"
+  },
+  "devDependencies": {},
+  "author": "Cezary Srednicki",
+  "license": "MIT"
+}
